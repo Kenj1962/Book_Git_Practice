@@ -1,0 +1,4 @@
+Hello
+
+ Make sure you have all accesses: okta, discord, zoom link
+    - Install java and intellij
